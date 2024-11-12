@@ -2,11 +2,11 @@
 # Welcome 👋
 
 **My name is Cristina**
-* 31 y/o based in Gothenburg, Sweden.
+* 32 y/o based in Gothenburg, Sweden.
 * 💻 I'm a System Architect Student.
 * I'll be posting all my uni projects during this year.
 * I'm continualy learning new skills & languages
-* I'm currently learning Web development 
+
 
 -----------------------------------------------------------------------
 
