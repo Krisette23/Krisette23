@@ -2,19 +2,17 @@
 # Welcome 👋
 
 **My name is Cristina**
-* 32 y/o based in Gothenburg, Sweden.
-* 💻 I'm a System Architect Student.
+* 33 y/o based in Gothenburg, Sweden.
+* 💻 I'm a System Architect graduate.
 * I'll be posting all my uni projects during this year.
 * I'm continualy learning new skills & languages
+* Cybersecurity learner
+* Data learner
+* Algorithms
+* Machine learning
 
 
 -----------------------------------------------------------------------
-
-
-## **Big goal 2024**
-* Became a relevant Github profile.
-* Master Github and daily post projects.
-* Create and post personal projects related to the learning skills.
 
 
 ----------------------------------------------------------------------
