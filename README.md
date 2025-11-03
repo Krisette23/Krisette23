@@ -4,7 +4,6 @@
 **My name is Cristina**
 * 33 y/o based in Gothenburg, Sweden.
 * 💻 I'm a System Architect graduate.
-* I'll be posting all my uni projects during this year.
 * I'm continualy learning new skills & languages
 * Cybersecurity learner
 * Data learner
