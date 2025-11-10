@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Cristina!
 
-I'm a **System Architecture Graduate (B.Sc.)** and aspiring **Software Developer** with a passion for building user-centric digital solutions. I enjoy transforming ideas into functional, clean and meaningful applications — through code, problem-solving and continuous learning.
+I'm a **System Architecture Graduate (B.Sc.)** and aspiring **Software Developer** with a passion for building user-centric digital solutions. I enjoy transforming ideas into functional, clean and meaningful applications through code, problem-solving and continuous learning.
 
 ---
 
