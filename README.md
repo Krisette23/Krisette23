@@ -69,12 +69,12 @@ Included data cleaning, model training, evaluation & visualisation.
 
 ## 🤝 Connect With Me
 
-📍 **LinkedIn:** *(add your updated link after changes)*  
+📍 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/cristina-s%C3%A1nchez-l%C3%B3pez-goteborg23/).
 📧 **Email:** christinasanchezlopez@gmail.com  
 
 ---
 ----------------------------------------------------------------------
 ⭐ *Thanks for stopping by — feel free to explore my projects or connect!*
-**Contact** [Linkedin](https://www.linkedin.com/in/cristina-s%C3%A1nchez-l%C3%B3pez-goteborg23/).
+
 
 
