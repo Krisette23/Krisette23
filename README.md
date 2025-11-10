@@ -35,7 +35,7 @@ I’m currently growing my skills by building hands-on projects and improving co
 
 ## 🚀 Highlight Projects
 
-### 🏔️ Ski Resort Booking System — *C#, WPF*
+### 🏔️ Ski Resort Booking System : *C#, WPF*
 A desktop application built for ski resort cabin & activity bookings.  
 Designed with a focus on usability, structure and data handling.  
 
@@ -43,7 +43,7 @@ Designed with a focus on usability, structure and data handling.
 
 ---
 
-### 🎬 Cinema Web Booking App — *C#, ASP.NET, .NET*
+### 🎬 Cinema Web Booking App :  *C#, ASP.NET, .NET*
 A web app where users can browse movies and make bookings.  
 Includes login, CRUD features, session handling and validation.  
 
@@ -51,7 +51,7 @@ Includes login, CRUD features, session handling and validation.
 
 ---
 
-### 🧪 Sentiment Analysis ML — *Python, KNIME*
+### 🧪 Sentiment Analysis ML : *Python, KNIME*
 Machine learning project analysing sentiment in product reviews.  
 Included data cleaning, model training, evaluation & visualisation.  
 
@@ -74,7 +74,7 @@ Included data cleaning, model training, evaluation & visualisation.
 
 ---
 ----------------------------------------------------------------------
-⭐ *Thanks for stopping by — feel free to explore my projects or connect!*
+⭐ *Thanks for stopping by! feel free to explore my projects or connect!*
 
 
 
